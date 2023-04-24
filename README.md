@@ -1,8 +1,12 @@
 # arabic_sign_language
-image processing with machine learning technique to produce chatbot to help people to understand deaf people who use sign language
+Deaf & Dumb Assistant: to bridge the communication gap and provide
+an easy-to-use tool that enables individuals who are deaf or mute to communicate more
+effectively with others
 # dataset
-
+- video dataset with 190 words and arabic alphabet
 https://hamzah-luqman.github.io/KArSL/download_video_190.html
-# dataset label
-https://kfupmedusa-my.sharepoint.com/:x:/g/personal/hluqman_kfupm_edu_sa/ES0J8n3kSkxJgo_QzotQGf8BcFK8L84kQCzFEBSeBO01DA?e=WekLja
+- image dataset:
+- we will create this data set using python code to take 20 photo for each label
+# github that explain how to detect words
+https://www.youtube.com/playlist?list=PLkz_y24mlSJYWpwFbU8fyaBSwihoVHiJz
 
