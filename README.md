@@ -9,4 +9,6 @@ https://hamzah-luqman.github.io/KArSL/download_video_190.html
 - we will create this data set using python code to take 20 photo for each label
 # github that explain how to detect words
 https://www.youtube.com/playlist?list=PLkz_y24mlSJYWpwFbU8fyaBSwihoVHiJz
+# get image label
+- use this site:https://www.makesense.ai/
 
