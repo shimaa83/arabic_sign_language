@@ -8,6 +8,11 @@ effectively with others
 2.  image dataset:
        -  we will create this data set using python code to take 20 photo for each label
        -  https://justedujo-my.sharepoint.com/:f:/g/personal/szalrwweidan17_cit_just_edu_jo/EuRmFyQAojtCkGjmf5_X7e0B1EI3SGD83O3QLYYkKOPdTA?e=XNnZp8
+ 3. YOLO 8
+       - upload data in format (images, label ,data.yamel,yolov8s.pt )
+       - train your model
+       - download best.pt
+       - then predict image capture by camera using best.pt
 
 # videos  explain how to detect words
 https://www.youtube.com/playlist?list=PLkz_y24mlSJYWpwFbU8fyaBSwihoVHiJz
